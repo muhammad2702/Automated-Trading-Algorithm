@@ -1,4 +1,4 @@
-# Auto_trader
+# Automated Trading Algorithm Implementation w/ API Integration & Technical Analysis 
 
 ## Features
 
